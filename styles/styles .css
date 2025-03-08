@@ -172,3 +172,41 @@ main section {
     margin-top: 50px;
 }
 
+
+
+
+/* footer section */
+footer{
+    padding:130px 230px;
+    /* margin: 130px 230px;//if we use margin then right left colour will not show .but padding would show background colour */
+    display: flex;
+    gap: 100px;
+
+}
+
+.footer-column{
+    width: 50%;
+}
+
+footer input[type="text"],footer input[type="email"],footer textarea{
+    height: 50px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+footer textarea {
+    height: 200px; /* Increase the height */
+    width: 100%; /* Ensure it takes full width */
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px 20px; /* Fix missing colon */
+    margin-bottom: 24px;
+    border: none;
+    /* resize: vertical; Allows users to resize vertically */
+}
+
