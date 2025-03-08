@@ -207,6 +207,7 @@ footer textarea {
     padding: 10px 20px; /* Fix missing colon */
     margin-bottom: 24px;
     border: none;
+    resize: none;
     /* resize: vertical; Allows users to resize vertically */
 }
 
