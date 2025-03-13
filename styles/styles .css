@@ -199,15 +199,3 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     border: none;
 }
 
-footer textarea {
-    height: 200px; /* Increase the height */
-    width: 100%; /* Ensure it takes full width */
-    border-radius: 5px;
-    background-color: white;
-    padding: 10px 20px; /* Fix missing colon */
-    margin-bottom: 24px;
-    border: none;
-    resize: none;
-    /* resize: vertical; Allows users to resize vertically */
-}
-
