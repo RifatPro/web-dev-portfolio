@@ -199,6 +199,7 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     border: none;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width:576px) {
   html, body {
     overflow-x: hidden;
@@ -260,3 +261,5 @@ footer input[type="text"],footer input[type="email"],footer textarea{
   
 }
 
+=======
+>>>>>>> fc96baf70b06abdeacfd094fe950cbd9c23688dc
